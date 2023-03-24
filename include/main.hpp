@@ -15,5 +15,10 @@
  * @endverbatim
  * ****************************(C) COPYRIGHT 2023 Blue Bear****************************
  */
+#ifndef _MAIN_H_
+#define _MAIN_H_
+
 #include <iostream>
 #include <ostream>
+
+#endif

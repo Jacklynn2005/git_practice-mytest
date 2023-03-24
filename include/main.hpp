@@ -1,6 +1,6 @@
 /**
  * ****************************(C) COPYRIGHT 2023 Blue Bear****************************
- * @file       main.cpp
+ * @file       main.hpp
  * @brief      
  * 
  * @note       
@@ -15,9 +15,5 @@
  * @endverbatim
  * ****************************(C) COPYRIGHT 2023 Blue Bear****************************
  */
-#include "../include/main.hpp"
-
-int main() {
-    std::cout << "hello world!" << std::endl;
-    return 0;
-}
+#include <iostream>
+#include <ostream>

@@ -1,8 +1,8 @@
+**Welcome to the git_practice repo!**   
+**This is the repo to test if you can fluently use Git & Github!**
+
 # git_practice
 First fork this repo, and follow the instructions to finish the practice
-
-Welcome to the git_practice wiki!
-This is the repo to test if you can fluently use Git & Github!
 
 # Here are the things you need to do:
 1. Fork this repo and clone it in your local.  

@@ -5,7 +5,7 @@
 First fork this repo, and follow the instructions to finish the practice
 
 # Here are the things you need to do:
-1. Fork this repo and clone it in your local.  
+1. Fork this repo and clone it in your own work space.  
    **All of the following steps are executed in your own repo!**
 2. Run the "main.cpp" file. It will be compiled as an executable binary file and output "Hello World!".
 3. Create a new branch called "test" from "master" branch, and go to that "test". Add a new cpp hearder file called "algo.hpp" under the "include" folder.

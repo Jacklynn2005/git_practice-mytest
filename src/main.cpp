@@ -21,3 +21,12 @@ int main() {
     std::cout << "hello world!" << std::endl;
     return 0;
 }
+
+
+#include <IOstream>
+using namespace std;
+
+int main(){
+    cout<<"Hello World!";
+    return 0;
+}

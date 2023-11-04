@@ -23,7 +23,7 @@ int main() {
 }
 
 
-#include <IOstream>
+#include<IOstream>
 using namespace std;
 
 int main(){
